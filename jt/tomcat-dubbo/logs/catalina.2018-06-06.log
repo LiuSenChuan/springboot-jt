@@ -1,0 +1,300 @@
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.73
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 7 2016 21:27:23 UTC
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.73.0
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.2
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             E:\software\jdk1.7.0_15\jre
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_15-b03
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=E:\software\jt\1801\tomcats\tomcat-8091\conf\logging.properties
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=E:\software\jt\1801\tomcats\tomcat-8091\endorsed
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=E:\software\jt\1801\tomcats\tomcat-8091\temp
+六月 06, 2018 10:31:52 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\software\jdk1.7.0_15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;E:\software\jdk1.7.0_15\bin;E:\software\apache-maven-3.5.0\bin;E:\software\MySQL Server 5.5\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\LYJ\AppData\Local\Microsoft\WindowsApps;;.
+六月 06, 2018 10:31:52 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+六月 06, 2018 10:31:52 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1224 ms
+六月 06, 2018 10:31:52 上午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+六月 06, 2018 10:31:52 上午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.73
+六月 06, 2018 10:31:52 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs has finished in 367 ms
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples has finished in 339 ms
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager has finished in 54 ms
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager has finished in 48 ms
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT has finished in 54 ms
+六月 06, 2018 10:31:53 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+六月 06, 2018 10:31:53 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 10:31:53 上午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 925 ms
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.73
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 7 2016 21:27:23 UTC
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.73.0
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.2
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             E:\software\jdk1.7.0_15\jre
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_15-b03
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=E:\software\jt\1801\tomcats\tomcat-8091\conf\logging.properties
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=E:\software\jt\1801\tomcats\tomcat-8091\endorsed
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=E:\software\jt\1801\tomcats\tomcat-8091\temp
+六月 06, 2018 10:35:32 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\software\jdk1.7.0_15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;E:\software\jdk1.7.0_15\bin;E:\software\apache-maven-3.5.0\bin;E:\software\MySQL Server 5.5\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\LYJ\AppData\Local\Microsoft\WindowsApps;;.
+六月 06, 2018 10:35:32 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8091"]
+六月 06, 2018 10:35:32 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 561 ms
+六月 06, 2018 10:35:32 上午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+六月 06, 2018 10:35:32 上午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.73
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs has finished in 326 ms
+六月 06, 2018 10:35:32 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples has finished in 297 ms
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager has finished in 48 ms
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager has finished in 51 ms
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT has finished in 50 ms
+六月 06, 2018 10:35:33 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8091"]
+六月 06, 2018 10:35:33 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 10:35:33 上午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 829 ms
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.73
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 7 2016 21:27:23 UTC
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.73.0
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.2
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             E:\software\jdk1.7.0_15\jre
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_15-b03
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=E:\software\jt\1801\tomcats\tomcat-8091\conf\logging.properties
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=E:\software\jt\1801\tomcats\tomcat-8091\endorsed
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=E:\software\jt\1801\tomcats\tomcat-8091\temp
+六月 06, 2018 10:42:45 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\software\jdk1.7.0_15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;E:\software\jdk1.7.0_15\bin;E:\software\apache-maven-3.5.0\bin;E:\software\MySQL Server 5.5\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\LYJ\AppData\Local\Microsoft\WindowsApps;;.
+六月 06, 2018 10:42:45 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8091"]
+六月 06, 2018 10:42:45 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 10:42:45 上午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 555 ms
+六月 06, 2018 10:42:45 上午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+六月 06, 2018 10:42:45 上午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.73
+六月 06, 2018 10:42:46 上午 org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT.war
+六月 06, 2018 10:42:49 上午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+六月 06, 2018 10:42:52 上午 org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT.war has finished in 6,848 ms
+六月 06, 2018 10:42:52 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs
+六月 06, 2018 10:42:52 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs has finished in 70 ms
+六月 06, 2018 10:42:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples
+六月 06, 2018 10:42:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples has finished in 316 ms
+六月 06, 2018 10:42:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager
+六月 06, 2018 10:42:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager has finished in 45 ms
+六月 06, 2018 10:42:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager
+六月 06, 2018 10:42:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager has finished in 49 ms
+六月 06, 2018 10:42:53 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8091"]
+六月 06, 2018 10:42:53 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 10:42:53 上午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 7473 ms
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.73
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 7 2016 21:27:23 UTC
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.73.0
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.2
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             E:\software\jdk1.7.0_15\jre
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_15-b03
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=E:\software\jt\1801\tomcats\tomcat-8091\conf\logging.properties
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=E:\software\jt\1801\tomcats\tomcat-8091\endorsed
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=E:\software\jt\1801\tomcats\tomcat-8091
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=E:\software\jt\1801\tomcats\tomcat-8091\temp
+六月 06, 2018 2:29:41 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\software\jdk1.7.0_15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;E:\software\jdk1.7.0_15\bin;E:\software\apache-maven-3.5.0\bin;E:\software\MySQL Server 5.5\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\LYJ\AppData\Local\Microsoft\WindowsApps;;.
+六月 06, 2018 2:29:41 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8091"]
+六月 06, 2018 2:29:41 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 568 ms
+六月 06, 2018 2:29:41 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+六月 06, 2018 2:29:41 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.73
+六月 06, 2018 2:29:41 下午 org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT.war
+六月 06, 2018 2:29:43 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+六月 06, 2018 2:29:46 下午 org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive E:\software\jt\1801\tomcats\tomcat-8091\webapps\ROOT.war has finished in 5,130 ms
+六月 06, 2018 2:29:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs
+六月 06, 2018 2:29:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\docs has finished in 46 ms
+六月 06, 2018 2:29:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples
+六月 06, 2018 2:29:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\examples has finished in 237 ms
+六月 06, 2018 2:29:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager
+六月 06, 2018 2:29:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\host-manager has finished in 49 ms
+六月 06, 2018 2:29:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager
+六月 06, 2018 2:29:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory E:\software\jt\1801\tomcats\tomcat-8091\webapps\manager has finished in 56 ms
+六月 06, 2018 2:29:47 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8091"]
+六月 06, 2018 2:29:47 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+六月 06, 2018 2:29:47 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5597 ms
